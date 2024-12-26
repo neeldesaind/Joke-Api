@@ -27,6 +27,12 @@ The **Random Joke** web application fetches and displays random programming-rela
 
 When the page loads, a random joke is displayed. The user can click the **"Get Another Joke"** button to fetch a new joke.
 
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/af492dcd-8c44-492f-a4e4-41f10bf98192)
+
+
+
 ## API Integration
 
 This app uses the [JokeAPI](https://v2.jokeapi.dev/) to fetch jokes. The request URL includes the programming and miscellaneous categories while excluding inappropriate content like nsfw, racist, sexist, and explicit jokes.
